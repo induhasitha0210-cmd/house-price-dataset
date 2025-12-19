@@ -62,10 +62,6 @@ house-price-streamlit/
 
 ▶️ How to Run the Project Locally
 
-Clone the repository:
-
-git clone https://github.com/laxmi1728/SCT_ML_01.git
-
 
 Navigate to the project folder:
 
